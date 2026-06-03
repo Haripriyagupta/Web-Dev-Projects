@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T13:51:36.088Z",
+  "generatedAt": "2026-06-03T03:17:19.194Z",
   "count": 4,
   "projects": [
     {
@@ -18,7 +18,7 @@
       "entry": "Projects/2048%20Game/index.html",
       "folder": "Projects/2048%20Game",
       "thumbnail": "Projects/2048%20Game/thumbnail.svg",
-      "addedAt": "2026-06-01T13:51:31.312Z"
+      "addedAt": "2026-06-03T03:17:15.372Z"
     },
     {
       "slug": "Daily Wheels",
@@ -36,12 +36,12 @@
       "entry": "Projects/Daily%20Wheels/index.html",
       "folder": "Projects/Daily%20Wheels",
       "thumbnail": "Projects/Daily%20Wheels/thumbnail.svg",
-      "addedAt": "2026-06-01T13:51:31.312Z"
+      "addedAt": "2026-06-03T03:17:15.373Z"
     },
     {
       "slug": "Music Player",
       "title": "Music Player",
-      "description": "An iPhone-style audio player with album art cards, scrubber, and a queue you can swipe through.",
+      "description": "iPhone-style audio player with iTunes Search API integration, album artwork, and 30-second preview playback.",
       "author": {
         "name": "Web Dev Projects",
         "github": "cu-sanjay"
@@ -49,12 +49,14 @@
       "tags": [
         "audio",
         "ui",
+        "api",
+        "search",
         "vanilla-js"
       ],
       "entry": "Projects/Music%20Player/index.html",
       "folder": "Projects/Music%20Player",
       "thumbnail": "Projects/Music%20Player/thumbnail.svg",
-      "addedAt": "2026-06-01T13:51:31.313Z"
+      "addedAt": "2026-06-03T03:17:15.373Z"
     },
     {
       "slug": "Notes App",
@@ -72,7 +74,7 @@
       "entry": "Projects/Notes%20App/index.html",
       "folder": "Projects/Notes%20App",
       "thumbnail": "Projects/Notes%20App/thumbnail.svg",
-      "addedAt": "2026-06-01T13:51:31.313Z"
+      "addedAt": "2026-06-03T03:17:15.373Z"
     }
   ]
 }
